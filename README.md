@@ -1,0 +1,2 @@
+# Multiple-Group-Chat-Application
+Here multiple chat rooms are available. It consists of implementing two components: a chat client and a chat server. In this implementation, the server maintains information about the clients that have registered with a specific chat group and pass the messages sent by the clients. Here a client can join a group at a time that means joining in multiple groups are not available. He can leave the group and can join another group.
